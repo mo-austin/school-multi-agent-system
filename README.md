@@ -27,13 +27,13 @@ https://github.com/user-attachments/assets/c547f965-47d2-458f-b9d9-27e610c3d61b
 ### Notetaker Agent
 **Tools**
 - `notes_search` — run vector search over stored note chunks, return relevant data for downstream summarization
-- `chunk_and_embed` - store chunks and embedding vector in Delta for semantic similarity search. Use parse.bot to make canvas api, check daily for notes/class materials to store
+- `chunk_and_embed` - pull new/updated notes & class materials from Canvas API (parse.bot) daily, extract text, chunk + embed, and upsert into Delta + vector index for semantic search
 - `ingest_doc` - extract text/metadata into raw store
 
 ### Planner Agent
 **Tools**
 - `create_events_from_syllabus` - read assignment/test dates from pdf syllabus, add to ios calendar (pass context with calendar agent)
-- 
+- `update_events` - Read canvas notifications and determine if events need to be updated
 
 ### Homework Agent
 **Tools**
