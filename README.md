@@ -29,10 +29,11 @@ https://github.com/user-attachments/assets/5c307bc6-7e46-4fce-a5ed-a03aa18d5218
 ### Planner Agent
 **Tools**
 - `create_events_from_syllabus` - read assignment/test dates from pdf syllabus, add to ios calendar (pass context with calendar agent)
+- Maybe create an .ics file to do this?
 
 ### Notetaker Agent
 **Tools**
-- `summarizer` — summarize text/PDF input and write to Delta  
+- `summarizer` — summarize text/PDF input and write to Delta table  
 - `notes_search` — find notes by class, date, or query
 
 ### Homework Agent
