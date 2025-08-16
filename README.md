@@ -6,17 +6,14 @@ This is my personal project to help me finish my last year of school. I'm not fo
 ### Calendar Agent (iOS Calendar API/CalDAV • Llama-4)
 ### Functionality:
 <details>
-  <summary>Create single, multiple events in a user-specified calendar</summary>
-“Make an event called ‘Test Event’ in the Assignments calendar for August 15, 2025.”
+  <summary>Create/Delete event(s) in a user-specified calendar in natural language</summary>
 
-“Make events called ‘Test Event’, 'Test Event2,' and 'Test Event3' in the Assignments calendar for August 15, 2025.”  
+  * “Make an event called ‘Test Event’ in the Assignments calendar for August 15, 2025.”
+  * "Delete the event called 'Test Event' in the Assignments calendar for August 15, 2025."
+  * “Make events called ‘Test Event’, 'Test Event2,' and 'Test Event3' in the Assignments calendar for August 15, 2025.”  
+  * “Delete the events named ‘Test Event’, 'Test Event2,' and 'Test Event3' in the Assignments calendar for August 15, 2025.”
 </details>
-<details>
-  <summary>Delete single, multiple events in a user-specified calendar</summary>
-"Delete the event called 'Test Event' in the Assignments calendar for August 15, 2025."
 
-“Delete the events named ‘Test Event’, 'Test Event2,' and 'Test Event3' in the Assignments calendar for August 15, 2025.”
-</details>
 
 https://github.com/user-attachments/assets/c547f965-47d2-458f-b9d9-27e610c3d61b
 
