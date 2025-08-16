@@ -18,7 +18,7 @@ This is my personal project to help me finish my last year of school. I'm not fo
 “Delete the events named ‘Test Event’, 'Test Event2,' and 'Test Event3' in the Assignments calendar for August 15, 2025.”
 </details>
 
-https://github.com/user-attachments/assets/5c307bc6-7e46-4fce-a5ed-a03aa18d5218
+https://github.com/user-attachments/assets/c547f965-47d2-458f-b9d9-27e610c3d61b
 
 ---
 
